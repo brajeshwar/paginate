@@ -31,8 +31,9 @@ body {
 	}
 }
 
-/* The important stuffs. The ones that you should copy-paste and use. */
-
+/*!
+ * The important stuffs. The ones that you should copy-paste and use.
+ */
 .paginate {
 	text-align: center;
 
@@ -114,7 +115,6 @@ body {
 			filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#5f5f5f', EndColorStr='#5c5c5c'); /* IE6–IE9 */		
 		}
 	}
-
 }
 
 .paginate-dark {
