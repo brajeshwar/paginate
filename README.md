@@ -1,10 +1,10 @@
 # Simple Pagination with CSS3
 
-Read the [article](http://brajeshwar.com/2011/pagination-css3-style/).
+Read the [article](//brajeshwar.com/2011/pagination-css3-style/).
 
 ## Author(s)
 
-[Brajeshwar](http://brajeshwar.me/)
+[Brajeshwar](//brajeshwar.com/)
 
 ### Note
 
